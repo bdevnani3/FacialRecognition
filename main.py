@@ -1,8 +1,12 @@
+from __future__ import print_function
 __author__ = 'bhavika'
 
 import cv2
 
-image = cv2.imread("input.jpg")
+# load the image
 
-# Test :
+image = cv2.imread("test.jpg")
+
+# Test - should display read image
 # cv2.imshow("Original", image)
+# cv2.waitKey(0)
