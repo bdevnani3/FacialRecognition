@@ -7,6 +7,10 @@ import cv2
 
 image = cv2.imread("test.jpg")
 
-# Test - should display read image
+
+# Test 1 - should display read image
 # cv2.imshow("Original", image)
 # cv2.waitKey(0)
+#
+# Test 2 - should display array form of image
+# print (image)
