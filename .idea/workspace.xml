@@ -2,7 +2,180 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="283e0673-6f33-49d0-8788-38abdb077bb1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/noface.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject01/subject01.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject01/subject01.glasses.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject01/subject01.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject01/subject01.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject01/subject01.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject01/subject01.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject01/subject01.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject01/subject01.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject01.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject01/subject01.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject01/subject01.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject01/subject01.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject02/subject02.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject02/subject02.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject02/subject02.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject02/subject02.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject02/subject02.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject02/subject02.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject02/subject02.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject02.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject02/subject02.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject02/subject02.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject02/subject02.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject03/subject03.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject03/subject03.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject03/subject03.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject03/subject03.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject03/subject03.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject03/subject03.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject03/subject03.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject03.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject03/subject03.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject03/subject03.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject03/subject03.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject04/subject04.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject04/subject04.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject04/subject04.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject04/subject04.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject04/subject04.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject04/subject04.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject04/subject04.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject04.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject04/subject04.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject04/subject04.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject04/subject04.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject05/subject05.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject05/subject05.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject05/subject05.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject05/subject05.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject05/subject05.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject05/subject05.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject05/subject05.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject05.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject05/subject05.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject05/subject05.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject05/subject05.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject06/subject06.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject06/subject06.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject06/subject06.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject06/subject06.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject06/subject06.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject06/subject06.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject06/subject06.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject06.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject06/subject06.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject06/subject06.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject06/subject06.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject07/subject07.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject07/subject07.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject07/subject07.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject07/subject07.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject07/subject07.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject07/subject07.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject07/subject07.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject07.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject07/subject07.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject07/subject07.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject07/subject07.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject08/subject08.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject08/subject08.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject08/subject08.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject08/subject08.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject08/subject08.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject08/subject08.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject08/subject08.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject08.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject08/subject08.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject08/subject08.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject08/subject08.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject09/subject09.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject09/subject09.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject09/subject09.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject09/subject09.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject09/subject09.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject09/subject09.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject09/subject09.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject09.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject09/subject09.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject09/subject09.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject09/subject09.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject10/subject10.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject10/subject10.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject10/subject10.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject10/subject10.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject10/subject10.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject10/subject10.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject10/subject10.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject10.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject10/subject10.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject10/subject10.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject10/subject10.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject11/subject11.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject11/subject11.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject11/subject11.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject11/subject11.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject11/subject11.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject11/subject11.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject11/subject11.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject11.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject11/subject11.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject11/subject11.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject11/subject11.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject12/subject12.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject12/subject12.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject12/subject12.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject12/subject12.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject12/subject12.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject12/subject12.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject12/subject12.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject12.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject12/subject12.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject12/subject12.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject12/subject12.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject13/subject13.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject13/subject13.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject13/subject13.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject13/subject13.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject13/subject13.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject13/subject13.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject13/subject13.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject13.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject13/subject13.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject13/subject13.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject13/subject13.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject14/subject14.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject14/subject14.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject14/subject14.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject14/subject14.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject14/subject14.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject14/subject14.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject14/subject14.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject14.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject14/subject14.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject14/subject14.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject14/subject14.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject15/subject15.centerlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject15/subject15.glasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject15/subject15.happy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject15/subject15.leftlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject15/subject15.noglasses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject15/subject15.normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject15/subject15.rightlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/subject15.sad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject15/subject15.sleepy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject15/subject15.surprised" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yalefaces/subject15/subject15.wink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recognize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trainRecognizer.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FacialRecognition.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +196,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41025642">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.5555556">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trainRecognizer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trainRecognizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.666667">
+              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recognize.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/recognize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7554348">
+              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+              <folding>
+                <element signature="e#25#69#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,7 +255,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/create_csv.py" />
+        <option value="$PROJECT_DIR$/yalefaces/findFace" />
+        <option value="$PROJECT_DIR$/detectFace.py" />
+        <option value="$PROJECT_DIR$/clientFacing.py" />
+        <option value="$PROJECT_DIR$/recs.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/classdemo.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/trainRecognizer.py" />
+        <option value="$PROJECT_DIR$/recognize.py" />
       </list>
     </option>
   </component>
@@ -58,7 +275,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="703" />
+    <option name="height" value="697" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -67,7 +284,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -83,7 +300,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -104,11 +320,18 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -235,6 +458,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="283e0673-6f33-49d0-8788-38abdb077bb1" name="Default" comment="" />
@@ -245,42 +471,272 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="703" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="697" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0446281" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/recognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41025642">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainRecognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haarcascade_frontalface_default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haarcascade_frontalface_default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haarcascade_frontalface_default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haarcascade_frontalface_default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haarcascade_frontalface_default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haarcascade_frontalface_default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haarcascade_frontalface_default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5555556">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainRecognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.666667">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7554348">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="e#25#69#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
